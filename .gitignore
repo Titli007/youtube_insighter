@@ -1,4 +1,6 @@
 node_modules
 .env
-downloaded_audio/
-data/
+downloaded_audio/*
+!downloaded_audio/
+data/*
+!data/
