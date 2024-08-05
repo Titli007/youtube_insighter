@@ -1,6 +1,11 @@
 node_modules
+
 .env
+
 downloaded_audio/*
 !downloaded_audio/
+!downloaded_audio/.keep
+
 data/*
 !data/
+!data/.keep
